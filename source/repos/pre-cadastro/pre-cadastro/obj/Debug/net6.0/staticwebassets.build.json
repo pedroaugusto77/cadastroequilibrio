@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "psC+3sUwBBhO+cXoOFvhK/0e/JkN83hw/1CGjgbNPIY=",
+  "Hash": "z+6H2HIvIy8v+MSP7S47oQAHdi+m0tWGryMWlt982Qw=",
   "Source": "pre-cadastro",
   "BasePath": "_content/pre-cadastro",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\WhatsApp Image 2022-09-09 at 18.48.36.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\gabri\\source\\repos\\pre-cadastro\\pre-cadastro\\wwwroot\\css\\WhatsApp_Image_2022-09-09_at_18.48.36-removebg-preview.png",
+      "SourceId": "pre-cadastro",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\gabri\\source\\repos\\pre-cadastro\\pre-cadastro\\wwwroot\\",
+      "BasePath": "_content/pre-cadastro",
+      "RelativePath": "css/WhatsApp_Image_2022-09-09_at_18.48.36-removebg-preview.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\WhatsApp_Image_2022-09-09_at_18.48.36-removebg-preview.png"
     },
     {
       "Identity": "C:\\Users\\gabri\\source\\repos\\pre-cadastro\\pre-cadastro\\wwwroot\\favicon.ico",
