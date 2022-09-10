@@ -1,0 +1,56 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+  font-size: 14px;
+}
+
+header img {
+    display: flex;
+    position: absolute;
+    left: 80%
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    border: none;
+    padding: 20px;
+
+}
+body .form1 {
+  
+margin-left: 120px; 
+margin-top:90px;
+}
+.line{
+    width: 390px;
+
+}
+header .title1{
+    margin-bottom:40px;
+
+}
+body .container2{
+    display:flex;
+    justify-content: space-around;
+    margin-right: 71%;
+}
+body .flexbox {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 30%;
+}
+
